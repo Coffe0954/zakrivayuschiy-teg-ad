@@ -1,1 +1,1 @@
-https://coffe0954.github.io/zakrivayuschiy-teg-ad/
+https://github.com/Coffe0954/zakrivayuschiy-teg-ad.git
